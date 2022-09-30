@@ -1,0 +1,4 @@
+http://192.168.52.128/whatever/
+root:8621ffdbc5698829397d97767ac13db3
+8621ffdbc5698829397d97767ac13db3 : dragon
+http://192.168.52.128/admin/#
